@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "host": "0.0.0.0",
+    "port": 8000,
+    "swaggerHost": "localhost:8000",
+    "dbConnectionString": "postgresql://vlad:1@localhost:5432/phonebook"
+  },
+  "local-docker": {
+    "host": "0.0.0.0",
+    "port": 8000,
+    "swaggerHost": "localhost:8000",
+    "dbConnectionString": "postgresql://vlad:1@localhost:5432/phonebook"
+  }
+}
+
